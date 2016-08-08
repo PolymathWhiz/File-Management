@@ -186,10 +186,6 @@ FILE *fileptr1, *fileptr2;
 
             Written By Miracle Anyanwu
 
-            Email: miracle.chinedu@st.vvu.edu.gh
-
             © 2016
-
-            MapleCon Technologies
 
                                                 */
